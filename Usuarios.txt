@@ -1,0 +1,15 @@
+usuarios:
+- ssb: fbal19
+  nome: filipi luiz barbosa
+  empresa: scania
+  status: ativo
+  nivel: administrador
+  poison: 100
+  tempo: 10
+- ssb: ssbioo
+  nome: ailton bonatti
+  empresa: scania
+  status: ativo
+  nivel: administrador
+  poison: 100
+  tempo: 10
